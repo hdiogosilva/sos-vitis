@@ -1,0 +1,18 @@
+site_name: SOS Vitis
+site_url: https://sosvitis.pages.dev
+repo_name: hdiogosilva/sos-vitis
+repo_url: https://github.com/squidfunk/mkdocs-material
+theme:
+  name: material
+  palette:
+    primary: blue grey
+  icon:
+    repo: fontawesome/brands/git-alt
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - attr_list
+  - md_in_html
+plugins:
+  - git-revision-date-localized
