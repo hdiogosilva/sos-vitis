@@ -1,7 +1,7 @@
 site_name: SOS Vitis
 site_url: https://sosvitis.pages.dev
 repo_name: hdiogosilva/sos-vitis
-repo_url: https://github.com/squidfunk/mkdocs-material
+repo_url: https://github.com/hdiogosilva/sos-vitis
 theme:
   name: material
   palette:
