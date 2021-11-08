@@ -19,7 +19,8 @@ _Legenda:_
 Primeira iteração do processo principal, alterado de acordo com os comentários da 1ª reunião individual com o IVDP.
 
 !!! note "Editável"
-    Diagramas editáveis (em [draw.io](https://diagrams.net)) disponíveis [aqui](diagramas/inicialv02.drawio).
+    Diagramas editáveis (em [draw.io](https://diagrams.net)) disponíveis [aqui](diagramas/inicialv02.drawio).  
+    Imagem em resolução completa [disponível aqui](diagramas/export/v02_completo.png).
 
 ![Processo de Alto Nível](diagramas/export/v02_main.png)
 
