@@ -1,4 +1,4 @@
-# SOS Vitis
+# Enquadramento
 
 <figure markdown> 
   ![SOS Vitis](img/home.jpg)
