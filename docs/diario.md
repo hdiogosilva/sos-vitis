@@ -45,8 +45,8 @@ Identificado que uma versão inicial do modelo de dados deverá contemplar:
 A tipologia dos campos não foi discutida e será difícil de identificar sem exemplos concretos. Necessária + informação sobre a codificação de _geocódigos_ e _codificação de castas_.  
 Identificada **possível inconsistência entre os geocódigos do IVV e IVDP**. Será necessário uma nova atividade (pela PORVID) para assegurar a consistência dos dados?  
 
-Principal resultado: **Versão [v0.2 do processo de negócio](/processos/#v02-primeira-iteracao-c-ivdp)**.
-Registo de modificações completo [aqui](/processos/#modificacoes).
+Principal resultado: **Versão [v0.2 do processo de negócio](/processos/#v02-primeira-iteracao-c-ivdp)**.  
+Registo de modificações desde v0.1 [aqui](/processos/#modificacoes).
 
 ### Reunião interna de apresentação
 
