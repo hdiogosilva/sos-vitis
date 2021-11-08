@@ -53,6 +53,6 @@ Registo de modificações desde v0.1 [aqui](/processos/#modificacoes).
 Primeira reunião para alinhamento estratégico dos diferentes parceiros e desafios.  
 Ordem de trabalhos:
 
-+ Valor estratégico da informação que está a ser solicitada: alerta, e informação descritiva da parcela (Dr. António Graça)
++ Valor estratégico da informação que está a ser solicitada: alerta, e informação descritiva da parcela
 + Apresentação e discussão de Desafio 1
 + Apresentação e discussão de desafio 2
