@@ -14,7 +14,16 @@ _Legenda:_
 **2b**.Agendar uma prospeção à parcela  
 **3.** Optimização da rota de prospeção  
 
-## v0.2 - Após discussão com IVDP
+## v0.2 - Primeira iteração c/ IVDP
+
+Primeira iteração do processo principal, alterado de acordo com os comentários da 1ª reunião individual com o IVDP.
+
+!!! note "Editável"
+    Diagramas editáveis (em [draw.io](https://diagrams.net)) disponíveis [aqui](diagramas/inicialv02.drawio).
+
+![Processo de Alto Nível](diagramas/export/v02_main.png)
+
+![PN3](diagramas/export/v02_PN3.png)
 
 ### Modificações
 
