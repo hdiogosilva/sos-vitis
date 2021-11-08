@@ -1,8 +1,8 @@
 ---
-title: Processos de Negócio
+title: Processos
 --- 
 
-# Processos de Negócio
+# Processos
 
 Nesta página são mantidas as diferentes iterações dos processos de negócio inter e intra-organizacionais modelados como solução para os [três desafios](/#desafios).
 
