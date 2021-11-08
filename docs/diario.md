@@ -26,6 +26,25 @@ _Legenda:_
 
 ### Reunião de trabalho c/ IVDP
 
+08-11-2021
+
+IVDP:
+
++ Dr. Paulo Barros
++ Engº Fernando Martins
++ Engº Alfredo Silva
+
+Hackathon Douro & Porto:
+
++ Gustavo Magalhães
++ Tiago Gama Rocha
+
+Investigador:
+
++ Henrique Diogo Silva
+
+#### Notas
+
 Primeira reunião de trabalho com IVDP, para discussão da versão inicial do processo de negócio.  
 A [versão v0.1](/processos/#v01-versao-inicial) do processo modelado foi utilizada para guiar esta sessão de trabalho. Após uma visão de alto nível do processo foram avaliadas as diferentes atividades identificadas e discutidas as várias discrepâncias entre o diagrama e a forma como as organizações operam. **Identificadas várias secções do diagrama que necessitam ser adaptadas.**  
 Manteve-se ainda em aberto o ponto do consentimento da partilha de informação: 
