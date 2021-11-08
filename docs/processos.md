@@ -47,7 +47,7 @@ Primeira iteração do processo principal, alterado de acordo com os comentário
         + **Existem mais restrições para além da geográfica?**
 + Correção de erros ortográficos e de concordância
 
-## v0.1
+## v0.1 - Versão inicial
 
 Versão inicial do processo inter-organizacional, modelado de acordo com a informação dos 3 desafios iniciais.  
 Esta versão serve de suporte às discussões iniciais com os diferentes parceiros, guiando as discussões e facilitando o elicitamento de requisitos.
