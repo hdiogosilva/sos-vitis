@@ -14,7 +14,45 @@ _Legenda:_
 **2b**.Agendar uma prospeção à parcela  
 **3.** Optimização da rota de prospeção  
 
-## v0.2 - Primeira iteração c/ IVDP
+## v0.3 - Iteração c/ PORVID
+
+Iteração do processo, alterado de acordo com os comentários da reunião com a PORVID.  
+Adicionado o sub-processo 2a.  
+
+!!! note "Editável"
+    Diagramas editáveis (em [draw.io](https://diagrams.net)) disponíveis [aqui](diagramas/inicialv03.drawio).  
+    Imagem em resolução completa [disponível aqui](diagramas/export/v03_completo.png).
+
+![Processo de Alto Nível](diagramas/export/v03_main.png)
+
+![PN2](diagramas/export/v03_PN2.png)
+
+![PN3](diagramas/export/v03_PN3.png)
+
+### Modificações
+
++ Alteração de nomenclatura utilizada em várias atividades, de forma a refletir a idaia de que não apenas a condidaturas financiadas devem ser processadas
+    + Alterado identificação da mensagem recebida pelo IVV de "Candidaturas VITIS selecionadas" para "Candidaturas VITIS"
+    + Alterado de atividade IVV de "Identificação de parcelas alvo de intervenção" para "Identificação de parcelas"
+    + Alterado identificação da mensagem recebida pela PORVID de "Parcelas a intervir" para "Listagem de parcelas"
++ Adicionada a Direção Regional de Agricultura e Pescas (DRAP) como interveniente do processo
+    + Intervenção em 3 pontos essenciais:
+        + Ponto de contacto entre a PORVID e o viticultor, caso não exista um consentimento explicito de partilha de informação
+        + Como ponto de validação no sub-processo PN2 "Decisão sobre parcelas a prospetar"
+        + Notificação de prospeção de vinhas, na parte final do processo
+    + **Necessário validar com PORVID** qual o melhor nome a atribuir.
+    + **Necessário validar com PORVID** qual o ponto em que esta validação ocorre: antes ou depois da validação interna
++ Adicionada notificação de DRAP do resultado da recolha de amostras
++ Modelação do processo PN2 "Decisão sobre parcelas a prospetar"
+    + Idade da vinha é o primeiro ponto de decisão. Vinhas plantadas até 1980 são de interesse independentemente da casta, e este processo pode ser automatizado.
+    + Para vinhas mais novas, este processo é manual e dependente das castas em questão.
++ Adicionado ao PN3 "Optimização de Recolhas" a lógica de interação com o IVDP apenas a parcela pertença à região demarcada do Douro
++ Adicionado ao PN3 "Optimização de Recolhas" a lógica de prioridade para candidaturas VITIS financiadas
+    + Candidaturas aceites são agrupadas de seguida
++ Corrigidos vários erros de notação
++ Correção de erros ortográficos e de concordância
+
+## v0.2 - Iteração c/ IVDP
 
 Primeira iteração do processo principal, alterado de acordo com os comentários da 1ª reunião individual com o IVDP.
 
