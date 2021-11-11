@@ -6,13 +6,12 @@ title: Processos
 
 Nesta página são mantidas as diferentes iterações dos processos de negócio inter e intra-organizacionais modelados como solução para os [três desafios](/#desafios).
 
-_Legenda:_
-
-**1a.** Identificar parcela alvo de intervenção VITIS  
-**1b.** Receber informação descritiva sobre a parcela alvo de intervenção VITIS  
-**2a.** Analisar a informação descritiva sobre a parcela alvo de intervenção VITIS  
-**2b**.Agendar uma prospeção à parcela  
-**3.** Optimização da rota de prospeção  
+!!! info "Legenda"
+    **1a.** Identificar parcela alvo de intervenção VITIS  
+    **1b.** Receber informação descritiva sobre a parcela alvo de intervenção VITIS  
+    **2a.** Analisar a informação descritiva sobre a parcela alvo de intervenção VITIS  
+    **2b**.Agendar uma prospeção à parcela  
+    **3.** Optimização da rota de prospeção  
 
 ## v0.3 - Iteração c/ PORVID
 

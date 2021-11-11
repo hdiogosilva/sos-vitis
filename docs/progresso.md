@@ -6,9 +6,9 @@ title: Progresso
 
 _Timeline_ com datas e marcos importantes no desenvolvimento do projeto:
 
-_Legenda:_  
-:material-file-document-multiple-outline: : Entregável  
-:material-presentation-play: : Marco  
+!!! info "Legenda"
+    :material-file-document-multiple-outline: : Entregável  
+    :material-presentation-play: : Marco  
 
 | Data       | Descrição                                                                                                         |
 |:----------:|-------------------------------------------------------------------------------------------------------------------|
