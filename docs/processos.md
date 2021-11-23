@@ -13,6 +13,35 @@ Nesta página são mantidas as diferentes iterações dos processos de negócio 
     **2b**.Agendar uma prospeção à parcela  
     **3.** Optimização da rota de prospeção  
 
+## v0.4 - Iteração c/ PORVID
+
+Iteração do processo, alterado de acordo com os comentários da reunião com a PORVID.  
+
+Principal alteração prede-se com a atualização de tarefas manuais.
+
+!!! note "Editável"
+    Diagramas editáveis (em [draw.io](https://diagrams.net)) disponíveis [aqui](diagramas/inicialv04.drawio).  
+    Imagem em resolução completa [disponível aqui](diagramas/export/v04_completo.png).
+    
+![Processo de Alto Nível](diagramas/export/v04_main.png)
+
+![PN2](diagramas/export/v04_PN2.png)
+
+![PN3](diagramas/export/v04_PN3.png)
+
+### Modificações
+
++   Para este processo, com uma maior proeminência de atividades manuais, o sentido das tarefas automatizadas que acontecem a informação recebida do IVV perde sentido uma vez que seriam tarefas repetidas no PN2. **Removidas**.
+    +   Painél _1b_ movido para o processo PN2.
++   Alteração de tarefas de automarizadas para manuais:
+    +   PN3: "Associar informação IVDP"
+    +   PN3: "Identificação de vinhas velhas geograficamente próximas"
+    +   PN3: "Agrupamento de vinhas"
++   Retirada informção sobre processamento de tarefa (auto./manual):
+    +   PN2: "Parcela com interesse de prospeção"
+    +   PN2: "Parcela sem interesse de prospeção"
++   Corrigidos vários erros de notação
+
 ## v0.3 - Iteração c/ PORVID
 
 Iteração do processo, alterado de acordo com os comentários da reunião com a PORVID.  
