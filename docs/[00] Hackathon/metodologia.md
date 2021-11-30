@@ -2,10 +2,10 @@
 title: Abordagem & Metodologia
 ---
 
-![Metodologia](diagramas/export/metodologia.png)
+![Metodologia](/diagramas/export/metodologia.png)
 
 !!! info "Apresentação"
-    A apresentação utilizada para introduzir metodologia e entregáveis disponível [aqui](documentos/intro_metod_29-10-2021.pdf)
+    A apresentação utilizada para introduzir metodologia e entregáveis disponível [aqui](/documentos/intro_metod_29-10-2021.pdf)
 
 
 ## 0. Análise dos atuais processos, sistemas e fluxos de informação.

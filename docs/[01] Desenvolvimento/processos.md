@@ -20,14 +20,14 @@ Iteração do processo, alterado de acordo com os comentários da reunião com a
 Principal alteração prede-se com a atualização de tarefas manuais.
 
 !!! note "Editável"
-    Diagramas editáveis (em [draw.io](https://diagrams.net)) disponíveis [aqui](diagramas/inicialv04.drawio).  
-    Imagem em resolução completa [disponível aqui](diagramas/export/v04_completo.png).
+    Diagramas editáveis (em [draw.io](https://diagrams.net)) disponíveis [aqui](/diagramas/inicialv04.drawio).  
+    Imagem em resolução completa [disponível aqui](/diagramas/export/v04_completo.png).
     
-![Processo de Alto Nível](diagramas/export/v04_main.png)
+![Processo de Alto Nível](/diagramas/export/v04_main.png)
 
-![PN2](diagramas/export/v04_PN2.png)
+![PN2](/diagramas/export/v04_PN2.png)
 
-![PN3](diagramas/export/v04_PN3.png)
+![PN3](/diagramas/export/v04_PN3.png)
 
 ### Modificações
 
@@ -48,14 +48,14 @@ Iteração do processo, alterado de acordo com os comentários da reunião com a
 Adicionado o sub-processo 2a.  
 
 !!! note "Editável"
-    Diagramas editáveis (em [draw.io](https://diagrams.net)) disponíveis [aqui](diagramas/inicialv03.drawio).  
-    Imagem em resolução completa [disponível aqui](diagramas/export/v03_completo.png).
+    Diagramas editáveis (em [draw.io](https://diagrams.net)) disponíveis [aqui](/diagramas/inicialv03.drawio).  
+    Imagem em resolução completa [disponível aqui](/diagramas/export/v03_completo.png).
 
-![Processo de Alto Nível](diagramas/export/v03_main.png)
+![Processo de Alto Nível](/diagramas/export/v03_main.png)
 
-![PN2](diagramas/export/v03_PN2.png)
+![PN2](/diagramas/export/v03_PN2.png)
 
-![PN3](diagramas/export/v03_PN3.png)
+![PN3](/diagramas/export/v03_PN3.png)
 
 ### Modificações
 
@@ -85,12 +85,12 @@ Adicionado o sub-processo 2a.
 Primeira iteração do processo principal, alterado de acordo com os comentários da 1ª reunião individual com o IVDP.
 
 !!! note "Editável"
-    Diagramas editáveis (em [draw.io](https://diagrams.net)) disponíveis [aqui](diagramas/inicialv02.drawio).  
-    Imagem em resolução completa [disponível aqui](diagramas/export/v02_completo.png).
+    Diagramas editáveis (em [draw.io](https://diagrams.net)) disponíveis [aqui](/diagramas/inicialv02.drawio).  
+    Imagem em resolução completa [disponível aqui](/diagramas/export/v02_completo.png).
 
-![Processo de Alto Nível](diagramas/export/v02_main.png)
+![Processo de Alto Nível](/diagramas/export/v02_main.png)
 
-![PN3](diagramas/export/v02_PN3.png)
+![PN3](/diagramas/export/v02_PN3.png)
 
 ### Modificações
 
@@ -120,8 +120,8 @@ Versão inicial do processo inter-organizacional, modelado de acordo com a infor
 Esta versão serve de suporte às discussões iniciais com os diferentes parceiros, guiando as discussões e facilitando o elicitamento de requisitos.
 
 !!! note "Editável"
-    Diagramas editáveis (em [draw.io](https://diagrams.net)) disponíveis [aqui](diagramas/inicialv0.drawio).
+    Diagramas editáveis (em [draw.io](https://diagrams.net)) disponíveis [aqui](/diagramas/inicialv0.drawio).
 
-![Processo de Alto Nível](diagramas/export/v0_main.png)
+![Processo de Alto Nível](/diagramas/export/v0_main.png)
 
-![PN3](diagramas/export/v0_PN3.png)
+![PN3](/diagramas/export/v0_PN3.png)

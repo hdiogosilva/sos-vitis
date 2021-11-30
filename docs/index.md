@@ -20,11 +20,11 @@ Com este projecto pretende-se assim, na prática, que os viticultores possam con
 
 ## Desafios
 
-[#1 Comunicação entre diversas entidades para aviso de reestruturação da vinha](/Desafios/Desafio1)
+[#1 Comunicação entre diversas entidades para aviso de reestruturação da vinha](/[02] Desafio 1/descricao)
 
-[#2 Ferramenta de apoio à decisão para prospecção de castas antigas](/Desafios/Desafio2)
+[#2 Ferramenta de apoio à decisão para prospecção de castas antigas](/[03] Desafio 2/descricao)
 
-[#3 Optimização da prospeção de vinhas velhas na Região Demarcada do Douro](/Desafios/Desafio3)
+[#3 Optimização da prospeção de vinhas velhas na Região Demarcada do Douro](/[04] Desafio 3/descricao)
 
 
 ## Equipa
@@ -37,4 +37,4 @@ Investigador @ INESC TEC
 [henrique.d.silva@inesctec.pt](mailto:henrique.d.silva@inesctec.pt)  
 
 
-![Logo Licença CC BY](img/cc.png)
+![Logo Licença CC BY](/img/cc.png)
