@@ -8,6 +8,10 @@ theme:
     primary: blue grey
   icon:
     repo: fontawesome/brands/git-alt
+  features:
+    - navigation.instant
+    - navigation.sections
+    - navigation.indexes
 markdown_extensions:
   - admonition
   - pymdownx.details
