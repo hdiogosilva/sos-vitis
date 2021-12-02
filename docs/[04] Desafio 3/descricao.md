@@ -2,7 +2,7 @@
 title: Descrição
 ---
 
-# Optimização da prospeção de vinhas velhas na Região Demarcada do Douro
+# Desafio 3 - Optimização da prospeção de vinhas velhas na Região Demarcada do Douro
 
 <figure markdown> 
   ![desafio3](../img/desafio-6-2021.jpg)

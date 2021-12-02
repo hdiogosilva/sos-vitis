@@ -2,16 +2,17 @@ site_name: SOS Vitis
 site_url: https://sosvitis.pages.dev
 repo_name: hdiogosilva/sos-vitis
 repo_url: https://github.com/hdiogosilva/sos-vitis
+strict: true
 theme:
   name: material
-  palette:
-    primary: blue grey
   icon:
     repo: fontawesome/brands/git-alt
   features:
     - navigation.instant
     - navigation.sections
     - navigation.indexes
+extra_css:
+- stylesheets/extra.css
 markdown_extensions:
   - admonition
   - pymdownx.details
