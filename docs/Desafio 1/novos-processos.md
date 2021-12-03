@@ -4,11 +4,10 @@ title: Novos Processos
 
 # Desafio 1 - Novos Processos
 
-O Desafio 1 pode ser considerado o mais estrutural para a PORVID uma vez que parte da sua atual atividade principal, a decisão de parcelas a prospetar e a recolha das amostras em si (desafio 1b), com o objetivo de esta ser alimentada pela informação passível de chegar à PORVID de outras entidades (desafio 1a).  
-Tendo como base o [processo atual descrito pela PORVID](/[02] Desafio 1/processo-atual/) e adotando um modelo de co-criação foram desenhados dois novos processos de acordo com os [objetivos deste primeiro desafio](/[02] Desafio 1/descricao/#objetivo):
+Tendo como base o [processo atual descrito pela PORVID](/Desafio 1/processo-atual/) e adotando um modelo de co-criação foram desenhados dois novos processos de acordo com os [objetivos deste primeiro desafio](/Desafio 1/resumo/#objetivo):
 
 + Um novo processo que tem em conta o quão critico é para a PORVID a integração desta informação para a PORVID e então adapta-se o mais possível aos atuais métodos de trabalho da PORVID;
-+ Um novo processo, com um horizonte de implementação a médio prazo, que prevê uma maior digitalização dos processos da PORVID. Mais detalhe sobre a implementação deste processo e outras recomendações [aqui](/[02] Desafio 1/recomendacoes/).
++ Um novo processo, com um horizonte de implementação a médio prazo, que prevê uma maior digitalização dos processos da PORVID. Mais detalhe sobre a implementação deste processo e outras recomendações [aqui](/Desafio 1/recomendacoes/).
 
 ## Estrutura
 
@@ -54,7 +53,7 @@ Uma divisão, apesar de não estrita, entre os sub-desafios 1a e 1b é também r
     </figure>
     
 3. Após a avaliação das candidaturas VITIS (e contemplando todas as candidaturas aprovadas e não apenas as financiadas) é espectável que dados sobre estas parcelas seja partilhado com a PORVID.
-    1. Dados de interesse para a PORVID serão aqueles definidos no [modelo de dados](/[01] Desenvolvimento/modelo-dados/), e incluem não apenas informação do formulário VITIS submetido pelo viticultor, mas também informação detida pelo SIVV.
+    1. Dados de interesse para a PORVID serão aqueles definidos no [modelo de dados](/Desenvolvimento/modelo-dados/), e incluem não apenas informação do formulário VITIS submetido pelo viticultor, mas também informação detida pelo SIVV.
     2. Apesar de serem modeladas atividades de validação da informação recebida, foi assumido que esta terá sido processada pelo SIVV. Poderá haver necessidade de mover esta camada de processamento agora _implícita_ do lado do IVV para os SI internos da PORVID.
     
 4. Recebida esta informação pela PORVID, há necessidade de esta ser de alguma forma processada antes de ser utilizada.
@@ -63,7 +62,7 @@ Uma divisão, apesar de não estrita, entre os sub-desafios 1a e 1b é também r
     3. Em descrições mais exaustivas deste processo, esta atividade deve ser desdobrada.
     
 5. Esta atividade intermédia leva-nos à atividade de **decisão sobre parcelas a prospetar**, especificada no sub-processo PN2.
-    1. A especificação deste processo encorre no âmbito do [Desafio 2](/[03] Desafio 2/descricao/). Descrição do [processo atual aqui](/[03] Desafio 2/processo-atual/) e descrição do [novo processo aqui](/[03] Desafio 2/novo-processo/).
+    1. A especificação deste processo encorre no âmbito do [Desafio 2](/Desafio 2/resumo/). Descrição do [processo atual aqui](/Desafio 2/processo-atual/) e descrição do [novo processo aqui](/Desafio 2/novo-processo/).
     
     <figure markdown> 
     ![Diagrama Parcial BPMN Desafio 1 - Corte 3](/diagramas/desafio1/export/parciais/desafio1-novo-parcial-03.png){ width="400" }
@@ -76,8 +75,8 @@ Uma divisão, apesar de não estrita, entre os sub-desafios 1a e 1b é também r
     </figure>
     
 7. Por cada parcela em que seja identificado um interesse de prospeção duas atividades em paralelo são despontadas: a validação do consentimento de partilha de informação e, desde já, é iniciado o sub-processo de otimização de recolhas.
-    1. A especificação do processo de agendamento de prospeção a parcelas encorre no âmbito do [Desafio 2b](/[03] Desafio 2/descricao/). Descrição do [processo atual aqui](/[03] Desafio 2/processo-atual/) e descrição do [novo processo aqui](/[03] Desafio 2/novo-processo/#desafio-2-novo-processo).
-    2. A especificação do processo de optimização de recolhas encorre no âmbito do [Desafio 3](/[04] Desafio 3/descricao/). Descrição do [processo atual aqui](/[04] Desafio 3/processo-atual/) e descrição do [novo processo aqui](/[04] Desafio 3/novo-processo/#desafio-3-novo-processo).
+    1. A especificação do processo de agendamento de prospeção a parcelas encorre no âmbito do [Desafio 2b](/Desafio 2/resumo/). Descrição do [processo atual aqui](/Desafio 2/processo-atual/) e descrição do [novo processo aqui](/Desafio 2/novo-processo/#desafio-2-novo-processo).
+    2. A especificação do processo de optimização de recolhas encorre no âmbito do [Desafio 3](/Desafio 3/resumo/). Descrição do [processo atual aqui](/Desafio 3/processo-atual/) e descrição do [novo processo aqui](/Desafio 3/novo-processo/#desafio-3-novo-processo).
     
     <figure markdown> 
     ![Diagrama Parcial BPMN Desafio 1 - Corte 5](/diagramas/desafio1/export/parciais/desafio1-novo-parcial-05.png){ width="400" }
@@ -119,7 +118,7 @@ As principais implicações deste Novo Processo Digitalizado são concentradas n
     </figure>
     
 2. Após assegurada a integridade dos dados recebidos decorre a atividade de **decisão sobre parcelas a prospetar**, especificada no sub-processo PN2.
-    1. A especificação deste processo encorre no âmbito do [Desafio 2](/[03] Desafio 2/descricao/). Descrição do [processo atual aqui](/[03] Desafio 2/processo-atual/) e descrição do [novo processo digitalizado aqui](/[03] Desafio 2/novo-processo/#desafio-2-novo-processo-digitalizado).
+    1. A especificação deste processo encorre no âmbito do [Desafio 2](/Desafio 2/resumo/). Descrição do [processo atual aqui](/Desafio 2/processo-atual/) e descrição do [novo processo digitalizado aqui](/Desafio 2/novo-processo/#desafio-2-novo-processo-digitalizado).
 3. Como resultado desta atividade, para cada parcela é validado o interesse ou não interesse da prospeção.
     1. Caso não seja identificado um interesse de prospeção, **toda a informação desta parcela deverá ser mantida nos SI da PORVID** para futura referência e o processo para essa parcela específica termina.
     
@@ -128,8 +127,8 @@ As principais implicações deste Novo Processo Digitalizado são concentradas n
     </figure>
     
 4. Por cada parcela em que seja identificado um interesse de prospeção duas atividades em paralelo são despontadas: a validação do consentimento de partilha de informação e, desde já, é iniciado o sub-processo de otimização de recolhas.
-    1. A especificação do processo de agendamento de prospeção a parcelas encorre no âmbito do [Desafio 2b](/[03] Desafio 2/descricao/). Descrição do [processo atual aqui](/[03] Desafio 2/processo-atual/) e descrição do [novo processo digitalizado aqui](/[03] Desafio 2/novo-processo/#desafio-2-novo-processo-digitalizado).
-    2. A especificação do processo de optimização de recolhas encorre no âmbito do [Desafio 3](/[04] Desafio 3/descricao/). Descrição do [processo atual aqui](/[04] Desafio 3/processo-atual/) e descrição do [novo processo digitalizado aqui](/[04] Desafio 3/novo-processo/#desafio-3-novo-processo-digitalizado).
+    1. A especificação do processo de agendamento de prospeção a parcelas encorre no âmbito do [Desafio 2b](/Desafio 2/resumo/). Descrição do [processo atual aqui](/Desafio 2/processo-atual/) e descrição do [novo processo digitalizado aqui](/Desafio 2/novo-processo/#desafio-2-novo-processo-digitalizado).
+    2. A especificação do processo de optimização de recolhas encorre no âmbito do [Desafio 3](/Desafio 3/resumo/). Descrição do [processo atual aqui](/Desafio 3/processo-atual/) e descrição do [novo processo digitalizado aqui](/Desafio 3/novo-processo/#desafio-3-novo-processo-digitalizado).
 5. À semelhança do processo anterior, a próxima atividade é a recolha das amostras em si, esta um processo manual.
 6. Após à uma atualização dos SI com todos os dados inerentes ao processo de recolha, de acordo com a arquitetura de informação definida.
 7. A DRAP correspondente à região da parcela deve ser notificada após cada recolha. **Este processo deverá ser automatizado** e enviar toda a informação requerida.

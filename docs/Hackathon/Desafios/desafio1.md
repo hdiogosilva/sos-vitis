@@ -1,11 +1,11 @@
 ---
-title: Descrição
+title: Desafio 1
 ---
 
 # Desafio 1 - Comunicação entre diversas entidades para aviso de reestruturação da vinha
 
 <figure markdown> 
-  ![desafio1](../img/desafio-4-2021.jpg)
+  ![desafio1](../../img/desafio-4-2021.jpg)
 </figure>
 
 ## Objetivo 

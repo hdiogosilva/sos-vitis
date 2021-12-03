@@ -29,3 +29,31 @@ markdown_extensions:
 plugins:
   - search
   - mermaid2
+nav:
+    - 'Enquadramento': '/'
+    - 'Hackathon':
+        - 'Desafios':
+            - 'Desafio 1': 'Hackathon/Desafios/desafio1.md'
+            - 'Desafio 2': 'Hackathon/Desafios/desafio2.md'
+            - 'Desafio 3': 'Hackathon/Desafios/desafio3.md'
+        - 'Abordagem & Metodologia': 'Hackathon/metodologia.md'
+        - 'Progresso': 'Hackathon/progresso.md'
+        - 'Licença': 'Hackathon/licença.md'
+    - 'Desenvolvimento':
+        - 'Processos': 'Desenvolvimento/processos.md'
+        - 'Modelo de Dados': 'Desenvolvimento/modelo-dados.md'
+        - 'Siglas': 'Desenvolvimento/siglas.md'
+    - 'Desafio 1':
+        - 'Resumo': 'Desafio 1/resumo.md'
+        - 'Processo Atual': 'Desafio 1/processo-atual.md'
+        - 'Novos Processos': 'Desafio 1/novos-processos.md'
+        - 'Recomendações': 'Desafio 1/recomendacoes.md'
+        - 'Modelo de Dados': 'Desafio 1/modelo-dados.md'
+    - 'Desafio 2':
+        - 'Resumo': 'Desafio 2/resumo.md'
+        - 'Processo Atual': 'Desafio 2/processo-atual.md'
+        - 'Novos Processos': 'Desafio 2/novos-processos.md'
+    - 'Desafio 3':
+        - 'Resumo': 'Desafio 3/resumo.md'
+        - 'Processo Atual': 'Desafio 3/processo-atual.md'
+        - 'Novos Processos': 'Desafio 3/novos-processos.md'

@@ -1,11 +1,11 @@
 ---
-title: Descrição
+title: Desafio 2
 ---
 
 # Desafio 2 - Ferramenta de apoio à decisão para prospecção de castas antigas
 
 <figure markdown> 
-  ![desafio2](../img/desafio-5-2021.jpg)
+  ![desafio2](../../img/desafio-5-2021.jpg)
 </figure>
 
 ## Objetivo 

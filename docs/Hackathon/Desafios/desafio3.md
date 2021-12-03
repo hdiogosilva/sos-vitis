@@ -1,11 +1,11 @@
 ---
-title: Descrição
+title: Desafio 3
 ---
 
 # Desafio 3 - Optimização da prospeção de vinhas velhas na Região Demarcada do Douro
 
 <figure markdown> 
-  ![desafio3](../img/desafio-6-2021.jpg)
+  ![desafio3](../../img/desafio-6-2021.jpg)
 </figure>
 
 ## Objetivo 

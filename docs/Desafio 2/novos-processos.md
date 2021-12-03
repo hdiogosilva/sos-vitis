@@ -1,5 +1,5 @@
 ---
-title: Desafio 2 - Novos Processos
+title: Novos Processos
 ---
 
 # Desafio 2 - Novos Processos

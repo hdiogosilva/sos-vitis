@@ -20,11 +20,11 @@ Com este projecto pretende-se assim, na prática, que os viticultores possam con
 
 ## Desafios
 
-[#1 Comunicação entre diversas entidades para aviso de reestruturação da vinha](/[02] Desafio 1/descricao)
+[#1 Comunicação entre diversas entidades para aviso de reestruturação da vinha](Hackathon/Desafios/desafio1)
 
-[#2 Ferramenta de apoio à decisão para prospecção de castas antigas](/[03] Desafio 2/descricao)
+[#2 Ferramenta de apoio à decisão para prospecção de castas antigas](Hackathon/Desafios/desafio2)
 
-[#3 Optimização da prospeção de vinhas velhas na Região Demarcada do Douro](/[04] Desafio 3/descricao)
+[#3 Optimização da prospeção de vinhas velhas na Região Demarcada do Douro](Hackathon/Desafios/desafio3)
 
 
 ## Equipa
