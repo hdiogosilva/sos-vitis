@@ -41,8 +41,8 @@ nav:
         - 'Siglas': 'Hackathon/siglas.md'
         - 'Licença': 'Hackathon/licença.md'
     - 'Docs. de Trabalho':
-        - 'Processos': 'Desenvolvimento/processos.md'
-        - 'Modelo de Dados': 'Desenvolvimento/modelo-dados.md'
+        - 'Processos': 'DocsTrabalho/processos.md'
+        - 'Modelo de Dados': 'DocsTrabalho/modelo-dados.md'
     - 'Desafio 1':
         - 'Resumo': 'Desafio 1/resumo.md'
         - 'Processo Atual': 'Desafio 1/processo-atual.md'
