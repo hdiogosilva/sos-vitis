@@ -4,24 +4,15 @@ title: Novos Processos
 
 # Desafio 3 - Novos Processos
 
-O Desafio 3
+Tendo como base o [processo atual descrito pela PORVID](/Desafio 3/processo-atual/) e adotando um modelo de co-criação foram desenhados dois novos processos de acordo com os objetivos deste segundo desafio:
+
++ Um novo processo que tem em conta o quão critico é para a PORVID a integração desta informação para a PORVID e então adapta-se o mais possível aos atuais métodos de trabalho da PORVID;
++ Um novo processo, com um horizonte de implementação a médio prazo, que prevê uma maior digitalização dos processos da PORVID. Mais detalhe sobre a implementação deste processo e outras recomendações [aqui](/Desafio 1/recomendacoes/).
 
 ## Estrutura
 
 Cada um dos novos processos desenhados é aqui representado em [notação BPMN](https://wikipedia.org/wiki/Business_Process_Model_and_Notation), seguido de uma descrição detalhada de cada atividade, pressupostos e outras considerações.  
 Alguns destaques a seguementos especificos do digrama são também apresentados para (1) facilitar a leitura e (2) destacar as diferenças entre o Novo Processo e o Novo Processo Digitalizado.
-
-Uma divisão, apesar de não estrita, entre os sub-desafios 3a e 3b é também representado segundo o seguinte esquema de cores:
-
-<figure markdown>
-![Diagrama BPMN Legenda - Desafio 3a](/diagramas/desafio3/export/parciais/desafio3-corte-3a.png)
-    <figcaption>Desafio 3a</figcaption>
-</figure>
-
-<figure markdown>
-![Diagrama BPMN Legenda - Desafio 3b](/diagramas/desafio3/export/parciais/desafio3-corte-3b.png)
-    <figcaption>Desafio 3b</figcaption>
-</figure>
 
 ## Desafio 3 - Novo Processo
 

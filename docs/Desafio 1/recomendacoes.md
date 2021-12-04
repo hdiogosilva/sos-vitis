@@ -9,12 +9,14 @@ Com a análise do processos de negócio internos da PORVID foram identificados a
 
 ### Dependência em Conhecimento Intrínseco
 
-O conjunto de atividades até agora utilizadas permitiram à PORVID recolher e processar uma grande coleção de amostras genéticas. No entanto estas atividades não podem ser consideradas como escaláveis uma vez que são inteiramente dependentes de conhecimento intrínseco de atores chave na PORVID.  
-Na descrição do [processo atual](/Desafio 1/processo-atual/) foram identificadas três atividades cruciais que requerem a intervenção ativa de membros da PORVID: (1) a coleção de parcelas de interesee; (2) a decisão sobre parcelas a prospetar; e (3) o contacto com os viticultores ou DRAPs.
+O conjunto de atividades até agora utilizadas permitiram à PORVID recolher e processar uma substancial coleção de amostras genéticas. No entanto estas atividades não podem ser consideradas como escaláveis ou sustentáveis ao longo prazo uma vez que são inteiramente dependentes de conhecimento intrínseco de atores chave na PORVID.  
+Na descrição do [processo atual do Desafio 1](/Desafio 1/processo-atual/) foram identificadas três atividades cruciais que requerem a intervenção ativa de membros da PORVID: (1) a coleção de parcelas de interesse; (2) a decisão sobre parcelas a prospetar; e (3) o contacto com os viticultores ou DRAPs.
 
-<!--A não existência de fluxos de informação formais, estabelecidos entre organizações, leva a PORVID a não ter um conjunto de atividades estruturadas para a coleta de parcelas de pontencial interesse.-->
+Apesar destes processos atuais manterem a PORVID relativamente flexível no que diz respeito à interação pontual com viticultores e até outras instituições, dificulta o estabelecimento de fluxos de informação formais. Com uma reestruturação destas atividades, suportada não em atores específicos, mas em processos e informação explícita a PORVID conseguirá não apenas estabelecer relações mais profícuas com outras instituições para assegurar o acesso a informação crucial para a sua missão, mas também assegurar uma maior visão sobre os seu processos para otimizar a sua eficácia e eficiência.
 
-### Gestão de Informção
+Se considerarmos a visibilidade que o projeto SOS VITIS traz para a PORVID como o primeiro passo no processo de minimização da dependência em conhecimento intrínseco, o segundo passo crucial é a implementação de processos e sistemas de gestão de informação.
+
+### Gestão De Informção
 
 
 

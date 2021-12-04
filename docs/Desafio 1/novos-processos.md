@@ -4,10 +4,12 @@ title: Novos Processos
 
 # Desafio 1 - Novos Processos
 
-Tendo como base o [processo atual descrito pela PORVID](/Desafio 1/processo-atual/) e adotando um modelo de co-criação foram desenhados dois novos processos de acordo com os [objetivos deste primeiro desafio](/Desafio 1/resumo/#objetivo):
+Tendo como base o [processo atual descrito pela PORVID](/Desafio 1/processo-atual/) e adotando um modelo de co-criação foram desenhados dois novos processos de acordo com os objetivos deste primeiro desafio:
 
 + Um novo processo que tem em conta o quão critico é para a PORVID a integração desta informação para a PORVID e então adapta-se o mais possível aos atuais métodos de trabalho da PORVID;
 + Um novo processo, com um horizonte de implementação a médio prazo, que prevê uma maior digitalização dos processos da PORVID. Mais detalhe sobre a implementação deste processo e outras recomendações [aqui](/Desafio 1/recomendacoes/).
+
+Sendo estes aqueles processos de mais alto nível, todos os restantes processos desenhados no âmbito dos [Desafio 2](/Desafio 2/resumo/) [Desafio 3](/Desafio 3/resumo/) são considerados sub-processos deste.
 
 ## Estrutura
 
@@ -61,7 +63,7 @@ Uma divisão, apesar de não estrita, entre os sub-desafios 1a e 1b é também r
     2. Prevê-se que a forma comum de esta informação ser partilhada ser por e-mail, e então há aqui a necessidade de, por exemplo, reencaminhar estas mensagens para os diferentes atores internos da PORVID.
     3. Em descrições mais exaustivas deste processo, esta atividade deve ser desdobrada.
     
-5. Esta atividade intermédia leva-nos à atividade de **decisão sobre parcelas a prospetar**, especificada no sub-processo PN2.
+5. Esta atividade intermédia leva-nos à atividade de **decisão sobre parcelas a prospetar**, especificada no sub-processo PN2. Decisão sobre parcelas a prospetar.
     1. A especificação deste processo encorre no âmbito do [Desafio 2](/Desafio 2/resumo/). Descrição do [processo atual aqui](/Desafio 2/processo-atual/) e descrição do [novo processo aqui](/Desafio 2/novo-processo/).
     
     <figure markdown> 
@@ -117,7 +119,7 @@ As principais implicações deste Novo Processo Digitalizado são concentradas n
     ![Diagrama Parcial BPMN Desafio 1 Digitalizado - Corte 1](/diagramas/desafio1/export/parciais/desafio1-novo-SI-parcial-01.png)
     </figure>
     
-2. Após assegurada a integridade dos dados recebidos decorre a atividade de **decisão sobre parcelas a prospetar**, especificada no sub-processo PN2.
+2. Após assegurada a integridade dos dados recebidos decorre a atividade de **decisão sobre parcelas a prospetar**, especificada no sub-processo PN2. Decisão sobre parcelas a prospetar.
     1. A especificação deste processo encorre no âmbito do [Desafio 2](/Desafio 2/resumo/). Descrição do [processo atual aqui](/Desafio 2/processo-atual/) e descrição do [novo processo digitalizado aqui](/Desafio 2/novo-processo/#desafio-2-novo-processo-digitalizado).
 3. Como resultado desta atividade, para cada parcela é validado o interesse ou não interesse da prospeção.
     1. Caso não seja identificado um interesse de prospeção, **toda a informação desta parcela deverá ser mantida nos SI da PORVID** para futura referência e o processo para essa parcela específica termina.

@@ -4,7 +4,10 @@ title: Novos Processos
 
 # Desafio 2 - Novos Processos
 
-O Desafio 2
+Tendo como base o [processo atual descrito pela PORVID](/Desafio 2/processo-atual/) e adotando um modelo de co-criação foram desenhados dois novos processos de acordo com os objetivos deste segundo desafio:
+
++ Um novo processo que tem em conta o quão critico é para a PORVID a integração desta informação para a PORVID e então adapta-se o mais possível aos atuais métodos de trabalho da PORVID;
++ Um novo processo, com um horizonte de implementação a médio prazo, que prevê uma maior digitalização dos processos da PORVID. Mais detalhe sobre a implementação deste processo e outras recomendações [aqui](/Desafio 1/recomendacoes/).
 
 ## Estrutura
 
