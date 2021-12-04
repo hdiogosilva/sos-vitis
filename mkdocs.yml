@@ -38,11 +38,11 @@ nav:
             - 'Desafio 3': 'Hackathon/Desafios/desafio3.md'
         - 'Abordagem & Metodologia': 'Hackathon/metodologia.md'
         - 'Progresso': 'Hackathon/progresso.md'
+        - 'Siglas': 'Hackathon/siglas.md'
         - 'Licença': 'Hackathon/licença.md'
-    - 'Desenvolvimento':
+    - 'Docs. de Trabalho':
         - 'Processos': 'Desenvolvimento/processos.md'
         - 'Modelo de Dados': 'Desenvolvimento/modelo-dados.md'
-        - 'Siglas': 'Desenvolvimento/siglas.md'
     - 'Desafio 1':
         - 'Resumo': 'Desafio 1/resumo.md'
         - 'Processo Atual': 'Desafio 1/processo-atual.md'
