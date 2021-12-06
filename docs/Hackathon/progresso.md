@@ -21,7 +21,7 @@ _Timeline_ com datas e marcos importantes no desenvolvimento do projeto:
 | 22.11.2021 | :material-file-document-multiple-outline: [Versão v0.4 do processo de alto nível](/DocsTrabalho/processos/#v04-iteracao-c-porvid) |
 | 29.11.2021 | :material-file-document-multiple-outline: [Versão preliminar do modelo de dados](/DocsTrabalho/modelo-dados/) |
 | 03.12.2021 | :material-file-document-multiple-outline: Modelação completa do [processo atual](/Desafio 1/processo-atual/) & [novos processos](/Desafio 1/novos-processos/) referentes ao Desafio 1 |
-| 03.12.2021 | :material-file-document-multiple-outline: Descrição completa do [processo atual](/Desafio 1/processo-atual/) & [novos processo](/Desafio 1/novos-processos/) referente ao Desafio 1 |
+| 03.12.2021 | :material-file-document-multiple-outline: Descrição completa do [processo atual](/Desafio 1/processo-atual/) & [novos processo](/Desafio 1/novos-processos/) referentes ao Desafio 1 |
 | 04.12.2021 | :material-file-document-multiple-outline: Modelação completa do [processo atual](/Desafio 2/processo-atual/) & [novos processos](/Desafio 2/novos-processos/) referentes ao Desafio 2 |
 | 04.12.2021 | :material-file-document-multiple-outline: Modelação completa do [processo atual](/Desafio 3/processo-atual/) & [novos processos](/Desafio 3/novos-processos/) referentes ao Desafio 3 |
-
+| 06.12.2021 | :material-file-document-multiple-outline: Descrição completa do [processo atual](/Desafio 2/processo-atual/) & [novos processo](/Desafio 2/novos-processos/) referentes ao Desafio 2 |

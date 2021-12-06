@@ -1,6 +1,6 @@
-<mxfile host="Electron" modified="2021-12-04T19:30:45.322Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/15.8.7 Chrome/91.0.4472.164 Electron/13.6.2 Safari/537.36" etag="F8TyZiP4ak8luglEJJOi" compressed="false" version="15.8.7" type="device">
+<mxfile host="Electron" modified="2021-12-06T17:51:50.585Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/15.8.7 Chrome/91.0.4472.164 Electron/13.6.2 Safari/537.36" etag="h3w6L1c6z3NhwxNrj52U" compressed="false" version="15.8.7" type="device">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Processos Alto Nível">
-    <mxGraphModel dx="2813" dy="2263" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1585" dy="1493" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -276,6 +276,13 @@
             <mxPoint x="220" y="110" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="yk3-eWaOrz4ozqZySkUD-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=15;dashed=1;strokeWidth=2;endArrow=open;endFill=0;" edge="1" parent="S9uaVLwE42Bdewrq16Cx-64" source="S9uaVLwE42Bdewrq16Cx-69" target="S9uaVLwE42Bdewrq16Cx-75">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="995" y="40" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="S9uaVLwE42Bdewrq16Cx-69" value="SI PORVID" style="shape=datastore;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;rounded=0;shadow=0;glass=0;sketch=0;fontSize=15;html=1;" parent="S9uaVLwE42Bdewrq16Cx-64" vertex="1">
           <mxGeometry x="200" y="30" width="40" height="50" as="geometry" />
         </mxCell>
@@ -379,7 +386,7 @@
             <mxPoint x="905" y="1190" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wzKE3sSlKjUrYDb6AZC5-1" value="&lt;span&gt;Confirmar agendamento&lt;/span&gt;" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task;whiteSpace=wrap;rectStyle=rounded;size=10;taskMarker=manual;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;fontSize=15;fontColor=#000000;strokeColor=default;strokeWidth=2;fillColor=default;gradientColor=none;html=1;" vertex="1" parent="1">
+        <mxCell id="wzKE3sSlKjUrYDb6AZC5-1" value="&lt;span&gt;Confirmar agendamento&lt;/span&gt;" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task;whiteSpace=wrap;rectStyle=rounded;size=10;taskMarker=manual;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;fontSize=15;fontColor=#000000;strokeColor=default;strokeWidth=2;fillColor=default;gradientColor=none;html=1;" parent="1" vertex="1">
           <mxGeometry x="845" y="1110" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
