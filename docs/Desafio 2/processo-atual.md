@@ -22,3 +22,32 @@ O processo é aqui representado em [notação BPMN](https://wikipedia.org/wiki/B
 
 ## Descrição
 
+### PN2. Decisão sobre parcelas a prospetar
+
+1. Nos processos atuais da PORVID, as atividades de decisão sobre as parcelas a prospetar são desencadeadas logo após a coleção de de informação de potenciais parcelas de interesse, como descrito no [Desafio 1](/Desafio 1/processo-atual/).
+2. O processo inicia-se então paralelamente para as várias parcelas recolhidas.
+3. Para o desenvolvimento deste processo é necessário que haja um envolvimento da tutela. São então estabelecidos contactos com a DRAP correspondente, que poderá validar o interesse desta prospeção por parte da PORVID, ou então, durante qualquer ponto deste processo, indicar que esta é uma para a qual não haverá interesse.
+    1. É importante referir que todo este processo é levado a cabo por elementos chave da PORVID e das DRAP que, com o seu conhecimento tácito são capazes de fazer esta seleção.
+    
+    <figure markdown> 
+    ![Diagrama Parcial BPMN Desafio 1 Atual - Corte 1](/diagramas/desafio2/export/parciais/desafio2-atual-parcial-04.png)
+    </figure>
+    
+    <figure markdown> 
+    ![Diagrama Parcial BPMN Desafio 1 Atual - Corte 2](/diagramas/desafio2/export/parciais/desafio2-atual-parcial-01.png)
+    </figure>
+    
+4. Em paralelo a esta validação por parte da DRAP, uma validação interna é feita pela PORVID, recorrendo a dois elementos essenciais: (1) o ano de plantação da vinha presente na parcela em questão; e (2) as castas presentes.
+    1. Quando ao ano de plantação, caso este seja igual ou inferior a 1980, e devido às suas características genéticas específicas, esta parcela será imediatamente considerada de interesse e não há necessidade de validar as castas presentes;
+    2. No caso de vinhas platantas após o ano de 1980 será necessária uma validação das castas. Apesar de existirem alguns registos sobre castas e clones já existentes do catálogo da PORVID que possam suportar esta decisão, estes registos não são atualizados com a frequência necessária para serem um real suporte à decisão. Esta é outra das atividades dependete de conhecimento tácito dos membros da PORVID.
+    
+    <figure markdown> 
+    ![Diagrama Parcial BPMN Desafio 1 Atual - Corte 3](/diagramas/desafio2/export/parciais/desafio2-atual-parcial-02.png)
+    </figure>
+    
+5. Terminadas estas atividades, e definidas as parcelas com e aquelas sem interesse de prospeção, esta informação é _enviada_ para o processo principal (descrito no [Desafio 1](/Desafio 1/processo-atual/)) onde será estabelecido contacto com o viticultor de forma a se proceder ao agendamento da recolha.
+6. Fim do processo.
+
+    <figure markdown> 
+    ![Diagrama Parcial BPMN Desafio 1 Atual - Corte 4](/diagramas/desafio2/export/parciais/desafio2-atual-parcial-03.png){ width="400" }
+    </figure>
