@@ -1,6 +1,6 @@
-<mxfile host="Electron" modified="2021-12-04T19:21:18.113Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/15.8.7 Chrome/91.0.4472.164 Electron/13.6.2 Safari/537.36" etag="8uiRHpYuJqAfQNHqpTNe" compressed="false" version="15.8.7" type="device">
+<mxfile host="Electron" modified="2021-12-06T14:10:01.515Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/15.8.7 Chrome/91.0.4472.164 Electron/13.6.2 Safari/537.36" etag="RFOt_Q42_lq4YXcdRtJG" compressed="false" version="15.8.7" type="device">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Processos Alto Nível">
-    <mxGraphModel dx="1875" dy="1508" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1359" dy="1280" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -263,7 +263,7 @@
         <mxCell id="S9uaVLwE42Bdewrq16Cx-155" value="Registos PORVID" style="shape=mxgraph.bpmn.data;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;size=15;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;fontSize=15;fontColor=#000000;strokeColor=default;strokeWidth=2;fillColor=default;gradientColor=none;html=1;" parent="S9uaVLwE42Bdewrq16Cx-105" vertex="1">
           <mxGeometry x="200" y="30" width="40" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="iuDeZnSWtHHvyOF3S0Ys-1" value="&lt;span&gt;Validação ano plantação&lt;/span&gt;" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task;whiteSpace=wrap;rectStyle=rounded;size=10;taskMarker=manual;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;fontSize=15;fontColor=#000000;strokeColor=default;strokeWidth=2;fillColor=default;gradientColor=none;html=1;" vertex="1" parent="S9uaVLwE42Bdewrq16Cx-105">
+        <mxCell id="iuDeZnSWtHHvyOF3S0Ys-1" value="&lt;span&gt;Validação ano plantação&lt;/span&gt;" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task;whiteSpace=wrap;rectStyle=rounded;size=10;taskMarker=manual;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;fontSize=15;fontColor=#000000;strokeColor=default;strokeWidth=2;fillColor=default;gradientColor=none;html=1;" parent="S9uaVLwE42Bdewrq16Cx-105" vertex="1">
           <mxGeometry x="620" y="124.5" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="S9uaVLwE42Bdewrq16Cx-145" value="&lt;span style=&quot;font-size: 14px ; background-color: rgb(248 , 249 , 250)&quot;&gt;DRAP&lt;/span&gt;" style="swimlane;html=1;startSize=20;horizontal=0;" parent="S9uaVLwE42Bdewrq16Cx-104" vertex="1">
@@ -310,17 +310,14 @@
         <mxCell id="8Ae6zeDYgx-UutW48Nks-24" value="&lt;span style=&quot;font-size: 23px&quot;&gt;2a - Analisar a informação descritiva sobre a parcela alvo de intervenção VITIS&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fontColor=#000000;strokeColor=none;fillColor=none;opacity=50;fontStyle=1;strokeWidth=2;fontFamily=Helvetica;align=right;" parent="1" vertex="1">
           <mxGeometry x="1430" y="140" width="270" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="S9uaVLwE42Bdewrq16Cx-158" value="Verificar consentimento partilha informação" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task;whiteSpace=wrap;rectStyle=rounded;size=10;taskMarker=user;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;fontSize=15;fontColor=#000000;strokeColor=default;strokeWidth=2;fillColor=default;gradientColor=none;" parent="1" vertex="1">
-          <mxGeometry x="180" y="1070" width="155" height="90" as="geometry" />
-        </mxCell>
-        <mxCell id="S9uaVLwE42Bdewrq16Cx-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpStyle=arc;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;fontSize=15;fontColor=#000000;endArrow=classic;endFill=1;strokeWidth=2;" parent="1" source="S9uaVLwE42Bdewrq16Cx-67" target="S9uaVLwE42Bdewrq16Cx-158" edge="1">
+        <mxCell id="S9uaVLwE42Bdewrq16Cx-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpStyle=arc;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;fontSize=15;fontColor=#000000;endArrow=classic;endFill=1;strokeWidth=2;" parent="1" source="S9uaVLwE42Bdewrq16Cx-67" target="qEn7U7PluYw8vDi2foXL-1" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="185" y="1114.9999999999998" as="targetPoint" />
+            <mxPoint x="179.99999999999977" y="1115" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="S9uaVLwE42Bdewrq16Cx-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpStyle=arc;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;fontSize=15;fontColor=#000000;endArrow=classic;endFill=1;strokeWidth=2;" parent="1" source="S9uaVLwE42Bdewrq16Cx-158" target="S9uaVLwE42Bdewrq16Cx-74" edge="1">
+        <mxCell id="S9uaVLwE42Bdewrq16Cx-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpStyle=arc;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;fontSize=15;fontColor=#000000;endArrow=classic;endFill=1;strokeWidth=2;" parent="1" source="qEn7U7PluYw8vDi2foXL-1" target="S9uaVLwE42Bdewrq16Cx-74" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="335" y="1114.9999999999998" as="sourcePoint" />
+            <mxPoint x="334.9999999999998" y="1115" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="S9uaVLwE42Bdewrq16Cx-159" value="Confirmar agendamento" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task;whiteSpace=wrap;rectStyle=rounded;size=10;taskMarker=user;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;fontSize=15;fontColor=#000000;strokeColor=default;strokeWidth=2;fillColor=default;gradientColor=none;" parent="1" vertex="1">
@@ -340,6 +337,9 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="905" y="1209.9999999999998" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="qEn7U7PluYw8vDi2foXL-1" value="Verificar consentimento partilha informação" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task;whiteSpace=wrap;rectStyle=rounded;size=10;taskMarker=manual;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="180" y="1070" width="150" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

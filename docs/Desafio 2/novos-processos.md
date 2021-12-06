@@ -40,11 +40,28 @@ Uma divisão, apesar de não estrita, entre os sub-desafios 2a e 2b é também r
 2. Com esta informação validada, o processo inicia-se paralelamente para as várias parcelas indicadas.
 3. À semelhança do processo atual, o envolvimento da DRAP respetiva à parcela em análise é mantido, sendo o parcer destas importante para a última decisão de prospeção de cada parcela.
 4. Quanto às atividades de validação interna (ano de plantação e castas), estas são mantidas de forma manual, com os mesmos critérios do processo atual.
-5. Terminadas estas atividades, e definidas as parcelas com e aquelas sem interesse de prospeção, esta informação é _enviada_ para o processo principal (descrito no [Desafio 1](/Desafio 1/processo-atual/)) onde, já havendo um agendamento estabelecido pelo [PN3. Agendamento de prospeção](/Desafio 2/novos-processos/#pn3-agendamento-de-prospecao) se poderá proceder à prospeção.
+5. Terminadas estas atividades, e definidas as parcelas com e aquelas sem interesse de prospeção, esta informação é _enviada_ para o processo principal (descrito no [Desafio 1](/Desafio 1/processo-atual/)) para se proceder ao agendamento de prospeções, sub-process descrito em [PN3. Agendamento de prospeção](/Desafio 2/novos-processos/#pn3-agendamento-de-prospecao).
 
 ### PN3. Agendamento de prospeção
 
+Despontado pelo processo principal, após existir uma decisão sobre quais parcelas são de interesse prospetar (descrito acima com o [PN2. Decisão sobre parcelas a prospetar](#pn2-decisao-sobre-parcelas-a-prospetar)), e em paralelo com o sub-processo [PN4. Optimização de recolhas](/Desafio 3/novos-processos/#pn4-optimizacao-de-recolhas), este sub-processo é responsável por (1) assegurar que existe consentimento por parte da PORVID para contactar o viticultor da parcela em questão; (2) utilizar a DRAP como intermédio de contacto com viticultores caso consentimento não tenha sido dado; e (3) agendar a prospeção junto do viticultor.
 
+1. O processo inicia-se com uma validação manual do consentimento de partilha de informação, dado aquando da candidatura VITIS.
+    1. Aqui partimos do pressuposto que mesmo para aquelas candidaturas para as quais não tenha sido dado o consentimento por parte do viticultor existe um conjunto de informação, não identificativa, que pode ser partilhada com a PORVID.
+2. Caso exista este consentimento, a PORVID por iniciar o seu contacto direto com o viticultor para proceder ao agendamento.
+
+    <figure markdown> 
+    ![Diagrama Parcial BPMN Desafio 3 Novo - Corte 1](/diagramas/desafio2/export/parciais/desafio2-novo-parcial-01.png)
+    </figure>
+
+3. Caso este consentimento não exista, a DRAP correspondente à parcela em questão, poderá servir como intermediário para a identificação e contacto do viticultor. Para isto uma notificação é enviada para a DRAP, que se encarrega que proceder a este agendamento e subsequentemente comunicar com a PORVID.
+
+    <figure markdown> 
+    ![Diagrama Parcial BPMN Desafio 3 Novo - Corte 2](/diagramas/desafio2/export/parciais/desafio2-novo-parcial-02.png)
+    </figure>
+
+4. Este agendamento feito pela DRAP é depois validado pela PORVID.
+5. Fim do processo.
 
 ## Desafio 2 - Novo Processo Digitalizado
 

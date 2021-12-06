@@ -21,6 +21,10 @@ Alguns destaques a seguementos especificos do digrama são também apresentados 
 !!! note "Editável"
     Diagramas editáveis (em [draw.io](https://diagrams.net)) disponíveis [aqui](/diagramas/desafio3/desafio3-novo.drawio).  
     Imagem em resolução completa [disponível aqui](/diagramas/desafio3/export/desafio3-novo.png).
+    
+### PN4. Optimização de recolhas
+
+### PN5. Integração Informção IVDP
 
 ## Desafio 3 - Novo Processo Digitalizado
 
