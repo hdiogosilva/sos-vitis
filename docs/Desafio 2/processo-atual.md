@@ -25,7 +25,7 @@ O processo é aqui representado em [notação BPMN](https://wikipedia.org/wiki/B
 ### PN2. Decisão sobre parcelas a prospetar
 
 1. Nos processos atuais da PORVID, as atividades de decisão sobre as parcelas a prospetar são desencadeadas logo após a coleção de de informação de potenciais parcelas de interesse, como descrito no [Desafio 1](/Desafio 1/processo-atual/).
-2. O processo inicia-se então paralelamente para as várias parcelas recolhidas.
+2. O processo inicia-se então paralelamente para as várias parcelas indicadas.
 3. Para o desenvolvimento deste processo é necessário que haja um envolvimento da tutela. São então estabelecidos contactos com a DRAP correspondente, que poderá validar o interesse desta prospeção por parte da PORVID, ou então, durante qualquer ponto deste processo, indicar que esta é uma para a qual não haverá interesse.
     1. É importante referir que todo este processo é levado a cabo por elementos chave da PORVID e das DRAP que, com o seu conhecimento tácito são capazes de fazer esta seleção.
     

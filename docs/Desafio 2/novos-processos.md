@@ -33,6 +33,18 @@ Uma divisão, apesar de não estrita, entre os sub-desafios 2a e 2b é também r
 !!! note "Editável"
     Diagramas editáveis (em [draw.io](https://diagrams.net)) disponíveis [aqui](/diagramas/desafio2/desafio2-novo.drawio).  
     Imagem em resolução completa [disponível aqui](/diagramas/desafio2/export/desafio2-novo.png).
+    
+### PN2. Decisão sobre parcelas a prospetar
+
+1. De acordo com o novo processo principal  descrito no [Desafio 1](/Desafio 1/processo-atual/), as novas atividades de decisão sobre as parcelas a prospetar são desencadeadas após um inicial processamento manual de informação que chega do IVV.
+2. Com esta informação validada, o processo inicia-se paralelamente para as várias parcelas indicadas.
+3. À semelhança do processo atual, o envolvimento da DRAP respetiva à parcela em análise é mantido, sendo o parcer destas importante para a última decisão de prospeção de cada parcela.
+4. Quanto às atividades de validação interna (ano de plantação e castas), estas são mantidas de forma manual, com os mesmos critérios do processo atual.
+5. Terminadas estas atividades, e definidas as parcelas com e aquelas sem interesse de prospeção, esta informação é _enviada_ para o processo principal (descrito no [Desafio 1](/Desafio 1/processo-atual/)) onde, já havendo um agendamento estabelecido pelo [PN3. Agendamento de prospeção](/Desafio 2/novos-processos/#pn3-agendamento-de-prospecao) se poderá proceder à prospeção.
+
+### PN3. Agendamento de prospeção
+
+
 
 ## Desafio 2 - Novo Processo Digitalizado
 
