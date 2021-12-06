@@ -47,8 +47,6 @@ nav:
         - 'Resumo': 'Desafio 1/resumo.md'
         - 'Processo Atual': 'Desafio 1/processo-atual.md'
         - 'Novos Processos': 'Desafio 1/novos-processos.md'
-        - 'Recomendações': 'Desafio 1/recomendacoes.md'
-        - 'Modelo de Dados': 'Desafio 1/modelo-dados.md'
     - 'Desafio 2':
         - 'Resumo': 'Desafio 2/resumo.md'
         - 'Processo Atual': 'Desafio 2/processo-atual.md'
@@ -56,3 +54,6 @@ nav:
     - 'Desafio 3':
         - 'Resumo': 'Desafio 3/resumo.md'
         - 'Novos Processos': 'Desafio 3/novos-processos.md'
+    - 'Próximos Passos':
+        - 'Recomendações': 'Recomendacoes/recomendacoes.md'
+        - 'Modelo de Dados': 'Recomendacoes/modelo-dados.md'
