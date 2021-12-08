@@ -11,3 +11,7 @@ title: Resumo
 **Objetivo:** Optimização da rota de prospeção.
 
 ## Solução
+
+![Diagrama BPMN Desafio 3 - Novo Processo SI](/diagramas/desafio3/export/desafio3-novo.png)
+
+![Diagrama BPMN Desafio 3 - Novo Processo SI](/diagramas/desafio3/export/desafio3-novo-SI.png)
