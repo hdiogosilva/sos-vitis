@@ -27,3 +27,7 @@ Com a análise do processos de negócio internos da PORVID foram também identif
 2. A gestão de informação das atividades da PORVID.
 
 Estes levaram ao desenvolvimento de um segundo processo de negócio e a um conjunto de recomendações de melhoria a médio/longo prazos, em que a digitalização de atividades e um maior foco numa gestão de informação sustentável são tidos em conta.
+
+![Diagrama BPMN Desafio 1 - Novo Processo](/diagramas/desafio1/export/desafio1-novo.png)
+
+![Diagrama BPMN Desafio 1 - Novo Processo SI](/diagramas/desafio1/export/desafio1-novo-SI.png)
