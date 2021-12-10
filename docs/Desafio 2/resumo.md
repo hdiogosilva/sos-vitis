@@ -23,6 +23,6 @@ Os modelos de trabalho desenvolvidos em conjunto com a PORVID, sistematizam e es
 
 Esta nova visibilidade que se cria sobre os processos da PORVID com a explicitação destes processos devem também servir como base para o desenvolvimento de processos de gestão de informação e implementação de SI que permitam uma maior eficiência e eficácia na sua missão ao longo do tempo.
 
-![Diagrama BPMN Desafio 2 - Novo Processo SI](/diagramas/desafio2/export/desafio2-novo.png)
+![Diagrama BPMN Desafio 2 - Novo Processo SI](../diagramas/desafio2/export/desafio2-novo.png)
 
-![Diagrama BPMN Desafio 2 - Novo Processo SI](/diagramas/desafio2/export/desafio2-novo-SI.png)
+![Diagrama BPMN Desafio 2 - Novo Processo SI](../diagramas/desafio2/export/desafio2-novo-SI.png)

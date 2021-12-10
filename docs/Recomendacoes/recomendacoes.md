@@ -16,28 +16,45 @@ Apesar destes processos atuais manterem a PORVID relativamente flexível no que 
 
 Se considerarmos a visibilidade que o projeto SOS VITIS traz para a PORVID como o primeiro passo no processo de minimização da dependência em conhecimento intrínseco, o segundo passo crucial é a implementação de processos e sistemas de gestão de informação.
 
-### Gestão De Informção
+### Gestão De Informação
 
 
 
 ## Recomendações
 
-Coleção de recomendações para (1) a digitalização e automatização de atividades e (2) implementação de sistemas de informação que permitam uma gestão mais eficaz de toda a informação gerada nas atividades da PORVID.
+Um processo de digitalização eficaz dos diferentes processos da PORVID acenta em quatro pilares fundamentais:
 
+1. Pessoas,
+2. Informação,
+3. Requisitos, e
+4. Design.
 
+### Pessoas
 
----
+Pessoas são o núcleo de todos os processos de negócio e, sendo a PORVID tão dependente de conhecimento intrínseco, o ponto de partida para uma digitalização dos seus processos de negócio tem que inevitavelmente começar por aqui.  
+Com este passo espera-se que seja possível definir de forma exaustiva:
 
+1. os principais intervenientes dos diferentes processos;
+2. o conhecimento intrínseco existente e associado a cada processo;
+3. esquematização de atividades e sub-processos.
 
+Apesar de o projeto SOS Vitis ter feito um avanço substancial neste campo para três processos e sub-processos específicos, o seu foco no programa VITIS não permitiu uma generalização ao nível que seria de esperar para uma abrangência completa.
 
-<!--Para uma digitalização eficaz dos diferentes processos da PORVID, um primeiro passo essencial será a implementação de um sistema de informação capaz de gerir toda a informação gerada nas atividades da PORVID e que reflita os processos atuais.
+### Informação
 
-Neste sentido os passos essenciais serão:
+Baseado nos registos hoje mantidos, no conhecimento intrínseco existente, e assegurando a interoperabilidade com SIV e outros sistemas governamentais, a definição de uma arquitetura de informação suportada por um modelo de dados robusto e completo é fundamental para uma maior eficiência dos processos da PORVID.  
 
-1.   **Desenho do modelo de dados**
-     +   Baseado nos registos hoje mantidos, e assegurando a interoperabilidade com SIV e outros sistemas governamentais, a modelação de modelo de dados simples mas completo é importante para representar todos os processos e atividades PORVID.
-     +   [Primeira especificação do modelo de dados aqui](/[01] Desenvolvimento/modelo-dados)
-1.   **Implementação de sistema de informação**
-     +   Baseado no modelo de dados, um sistema de informação deverá fornecer todas as funcionalidades necessárias para a (semi)automação dos diferentes processos e atividades PORVID.
-     +   [Descrição integral do requisitos aqui](/[01] Desenvolvimento/requisitos/).
--->
+Uma versão preliminar, desenhada com todas as restrições impostas pelo projeto VITIS, de um modelo de dados foi desenhado e está disponível [aqui](/Recomendacoes/modelo-dados/). Desenhado apenas com base nas interações com a PORVID e nos processos de negócio desenhados, este modelo simples permite responder a perguntas como:
+
++ Listar os detalhes de todas as recolhas correspondetes à casta "Alvarelhao"
+
+![Exemplo query 1](../img/query01.png)
+
++ Listas todas as recolhas em espera
++ Listas todas as parcelas da Região Demarcada do Douro intervidas.
+     
+### Requisitos
+
+A definição de requisitos é fundamental para o desenho e implementação de sistemas de informação que se adaptam ao seu meio e serem capazes de suportar a criação de valor. Havendo várias formas de encarar este processo, o trabalho de esquematização de processos e atividades iniciado pelo projeto SOS Vitis pode servir como um importante ponto de partida para este. O levantamento de necessidades de informação, funcionalidades e até um certa descrição de requisitos funcionais e não funcionais foi já aqui iniciado e deve ser tomado em conta.
+
+### Design
