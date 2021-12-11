@@ -13,9 +13,9 @@ Com este projecto pretende-se assim, na prática, que os viticultores possam con
 ## Parceiros
 
 + [Associação Portuguesa para a Diversidade da Videira (PORVID)](https://www.facebook.com/porvid.portugal/)
-+ [Instituto dos Vinhos do Douro e Porto(IVDP)](https://www.ivdp.pt/)
-+ [Instituto da Vinha e do Vinho(IVV)](https://www.ivv.gov.pt)
-+ [Instituto de Financiamento da Agricultura e Pescas(IFAP)](https://www.ifap.pt/)
++ [Instituto dos Vinhos do Douro e Porto (IVDP)](https://www.ivdp.pt/)
++ [Instituto da Vinha e do Vinho (IVV)](https://www.ivv.gov.pt)
++ [Instituto de Financiamento da Agricultura e Pescas (IFAP)](https://www.ifap.pt/)
 
 
 ## Desafios
