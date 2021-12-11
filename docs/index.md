@@ -36,7 +36,7 @@ Os resultados de cada um dos desafios foram divididos em três secções:
 
 | Desafio 1 | Desafio 2 | Desafio 3 |
 | | | |
-| [Resumo](/Desafio 1/resumo/) | [Resumo](/Desafio 1/resumo/) | [Resumo](/Desafio 1/resumo/) |
+| [Resumo](/Desafio 1/resumo/) | [Resumo](/Desafio 2/resumo/) | [Resumo](/Desafio 3/resumo/) |
 | [Processo Atual](/Desafio 1/processo-atual/) | [Processo Atual](/Desafio 2/processo-atual/) | NA |
 | [Novos Processos](/Desafio 1/novos-processos/) | [Novos Processos](/Desafio 2/novos-processos/) | [Novos Processos](/Desafio 3/novos-processos/) |
 
