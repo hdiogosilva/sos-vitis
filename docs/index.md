@@ -30,7 +30,7 @@ Com este projecto pretende-se assim, na prática, que os viticultores possam con
 ## Equipa
 
 Henrique Diogo Silva  
-Candidato a Doutoramento na FEUP  
+Candidato a Doutoramento @ FEUP  
 Investigador @ INESC TEC  
 [hdsilva.pt](https://hdsilva.pt)  
 [contacto@hdsilva.pt](mailto:contacto@hdsilva.pt)  
