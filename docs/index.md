@@ -30,9 +30,9 @@ Com este projecto pretende-se assim, na prática, que os viticultores possam con
 
 Os resultados de cada um dos desafios foram divididos em três secções:
 
-+ Resumo: descrição sucinta do processo e resultados obtido;
-+ Processo atual: Descrição do modelo de trabalho atual da PORVID para o desafio em questão;
-+ Novos processos: Descrição dos processos de negócio adaptados ao desafios apresentados.
++ **Resumo**: descrição sucinta do processo e resultados obtido;
++ **Processo atual**: Descrição do modelo de trabalho atual da PORVID para o desafio em questão;
++ **Novos processos**: Descrição dos processos de negócio adaptados ao desafios apresentados.
 
 | Desafio 1 | Desafio 2 | Desafio 3 |
 | | | |
