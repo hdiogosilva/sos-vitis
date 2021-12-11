@@ -26,6 +26,22 @@ Com este projecto pretende-se assim, na prática, que os viticultores possam con
 
 [#3 Optimização da prospeção de vinhas velhas na Região Demarcada do Douro](Hackathon/Desafios/desafio3)
 
+## Resultados
+
+Os resultados de cada um dos desafios foram divididos em três secções:
+
++ Resumo: descrição sucinta do processo e resultados obtido;
++ Processo atual: Descrição do modelo de trabalho atual da PORVID para o desafio em questão;
++ Novos processos: Descrição dos processos de negócio adaptados ao desafios apresentados.
+
+| Desafio 1 | Desafio 2 | Desafio 3 |
+| | | |
+| [Resumo](/Desafio 1/resumo/) | [Resumo](/Desafio 1/resumo/) | [Resumo](/Desafio 1/resumo/) |
+| [Processo Atual](/Desafio 1/processo-atual/) | [Processo Atual](/Desafio 2/processo-atual/) | NA |
+| [Novos Processos](/Desafio 1/novos-processos/) | [Novos Processos](/Desafio 2/novos-processos/) | [Novos Processos](/Desafio 3/novos-processos/) |
+
+Uma última secção de [Recomendações](/Recomendacoes/recomendacoes/) descreve um conjunto de considerações sobre os processos e atividades da PORVIR, apontando possíveis próximos passos para uma melhoria destes.
+
 
 ## Equipa
 
