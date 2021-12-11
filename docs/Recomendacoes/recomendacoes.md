@@ -18,7 +18,13 @@ Se considerarmos a visibilidade que o projeto SOS VITIS traz para a PORVID como 
 
 ### Gestão De Informação
 
+Processos de gestão de informação são um importante alicerce de qualquer organização. 
 
+Atualmente, os processos de gestão de informação da PORVID focam-se na manutenção de registos estruturados de acordo com as suas necessidades e  partilhados com os seus membros. Apesar de este método ter suportado as suas atividades até agora, esta prática não é sustentável ou escalável ao longo do tempo.
+
+Adicionalmente, a implementação de um processo de gestão de informação robusto, sustentado pela documentação de fluxos de informação, uma arquitetura de informação estável e interoperável, e infraestruturas fidedignas, permitirão à PORVID o desenvolvimento de novos produto-serviços cada vez mais intensivos em informação, como por exemplo o rastreamento de clones.
+
+Para esta implementação, são assim definidas um conjunto de recomendações que, desde o alto nível até tarefas concretas, servem como guia para este desenvolvimento.
 
 ## Recomendações
 
@@ -48,10 +54,53 @@ Uma versão preliminar, desenhada com todas as restrições impostas pelo projet
 
 + Listar os detalhes de todas as recolhas correspondetes à casta "Alvarelhao"
 
-![Exemplo query 1](../img/query01.png)
+```sql
+SELECT colheitas.id as ID, colheitas.data as Data, parcela.geocodigo as Geocódigo, castas.nome as Casta
+FROM colheitas
+INNER JOIN detalhes_colheitas on colheitas.detalhes=detalhes_colheitas.id
+INNER JOIN parcela on detalhes_colheitas.parcelas=parcela.id
+INNER JOIN castas on parcela.castas=castas.id
+Where castas.nome = "Alvarelhao";
+```
 
-+ Listas todas as recolhas em espera
+| ID | Data                     | Geocódigo    | Casta      |
+| -- | ------------------------ | ------------ | ---------- |
+| 1  | 2021-11-24T10:54:16+0000 | 291433487441 | Alvarelhao |
+| 2  | 2021-10-24T10:54:16+0000 | 182374296923 | Alvarelhao |
+
++ Listar todas as parcelas em espera para recolha
+
+```sql
+SELECT colheitas.id as ID, parcela.geocodigo as Geocódigo
+FROM colheitas
+INNER JOIN detalhes_colheitas on colheitas.detalhes=detalhes_colheitas.id
+INNER JOIN parcela on detalhes_colheitas.parcelas=parcela.id
+INNER JOIN estados on colheitas.estado=estados.id
+Where estados.estado = "Espera";
+```
+
+| ID | Geocódigo    |
+| -- | ------------ |
+| 1  | 291433210745 |
+| 2  | 182374296923 |
+
 + Listas todas as parcelas da Região Demarcada do Douro intervidas.
+
+```sql
+SELECT colheitas.id as ID, parcela.geocodigo as Geocódigo, castas.nome as Casta
+FROM colheitas
+INNER JOIN detalhes_colheitas on colheitas.detalhes=detalhes_colheitas.id
+INNER JOIN parcela on detalhes_colheitas.parcelas=parcela.id
+INNER JOIN castas on parcela.castas=castas.id
+INNER JOIN estados on colheitas.estado=estados.id
+Where estados.estado = "Recolhida";
+Where parcela.geocodigo BETWEEN 182374296923 and 182374296921;
+```
+
+| ID | Geocódigo    | Casta       |
+| -- | ------------ | ----------- |
+| 1  | 291433487441 | Tinto Cão   |
+| 2  | 182374296923 | Tinta Roriz |
      
 ### Requisitos
 

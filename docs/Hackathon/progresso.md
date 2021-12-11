@@ -26,3 +26,4 @@ _Timeline_ com datas e marcos importantes no desenvolvimento do projeto:
 | 04.12.2021 | :material-file-document-multiple-outline: Modelação completa do [processo atual](/Desafio 3/processo-atual/) & [novos processos](/Desafio 3/novos-processos/) referentes ao Desafio 3 |
 | 06.12.2021 | :material-file-document-multiple-outline: Descrição completa do [processo atual](/Desafio 2/processo-atual/) & [novos processo](/Desafio 2/novos-processos/) referentes ao Desafio 2 |
 | 07.12.2021 | :material-file-document-multiple-outline: Descrição completa dos [novos processo](/Desafio 3/novos-processos/) referentes ao Desafio 3 |
+| 11.12.2021 | :material-file-document-multiple-outline: Descrição completa das [recomendações](/Recomendacoes/recomendacoes/) |

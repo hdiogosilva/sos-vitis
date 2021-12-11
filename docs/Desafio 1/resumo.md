@@ -21,8 +21,14 @@ Para aumentar a abrangência e eficácia das suas atividades, ao mesmo tempo que
 
 Adotando um modelo de trabalho colaborativo e de co-criação com todos os stakeholders, um processo de trabalho que define atividades e responsabilidades de todas as instituições foi desenvolvido. Partindo dos processos atuais este novo modelo foi desenhado com flexibilidade em mente, para servir como guia para possibilitar uma simples e profícua a passagem da informação entre instituições.
 
-Com a análise do processos de negócio internos da PORVID foram também identificados alguns pontos de intervenção num período mais alargado. Estes levaram ao desenvolvimento de um segundo processo de negócio, e a um conjunto de recomendações de melhoria a médio/longo prazos, em que a digitalização de atividades e um maior foco numa gestão de informação sustentável são tidos em conta. Uma descrição destes pode ser encontrado na secção [Recomendações](/Recomendacoes/recomendacoes/).
+A análise do processos de negócio internos da PORVID levou também à identificação de alguns pontos de intervenção num período mais alargado. Estes levaram ao desenvolvimento de um segundo processo de negócio, e a um conjunto de recomendações de melhoria a médio/longo prazos, em que a digitalização de atividades e um maior foco numa gestão de informação sustentável são tidos em conta. Uma descrição destes pode ser encontrado na secção [Recomendações](/Recomendacoes/recomendacoes/).
 
-![Diagrama BPMN Desafio 1 - Novo Processo](../diagramas/desafio1/export/desafio1-novo.png)
+<figure markdown>
+  ![Diagrama BPMN Desafio 1 - Novo Processo](../diagramas/desafio1/export/desafio1-novo.png)
+  <figcaption>Diagrama BPMN Desafio 1 - Novo Processo</figcaption>
+</figure>
 
-![Diagrama BPMN Desafio 1 - Novo Processo SI](../diagramas/desafio1/export/desafio1-novo-SI.png)
+<figure markdown>
+  ![Diagrama BPMN Desafio 1 - Novo Processo SI](../diagramas/desafio1/export/desafio1-novo-SI.png)
+  <figcaption>Diagrama BPMN Desafio 1 - Novo Processo Digitalizado</figcaption>
+</figure>

@@ -23,6 +23,28 @@ Os modelos de trabalho desenvolvidos em conjunto com a PORVID, sistematizam e es
 
 Esta nova visibilidade que se cria sobre os processos da PORVID com a explicitação destes processos devem também servir como base para o desenvolvimento de processos de gestão de informação e implementação de SI que permitam uma maior eficiência e eficácia na sua missão ao longo do tempo.
 
-![Diagrama BPMN Desafio 2 - Novo Processo SI](../diagramas/desafio2/export/desafio2-novo.png)
+De forma a respeitar o RGPD no processamento de toda a informação recolhida a partir dos processos VITIS e tirando partido do processo de co-criação adotado, um novo campo foi adicionado ao formuário de candidatura para a campanha 2022-2023, onde cada viticultor pode escolher partilhar informação relevante com a PORVID. De acordo com os processos definidos os dados a ser partilhados são:
 
-![Diagrama BPMN Desafio 2 - Novo Processo SI](../diagramas/desafio2/export/desafio2-novo-SI.png)
++ Dados de contacto do viticultor: nome, email, n.º de telemóvel;
++ Localização da parcela: distrito, concelho e freguesia;
++ Área da parcela;
++ Ano de plantação;
++ Lista de castas presentes; e 
++ Percentagem de cada casta.
+
+A inclusão desta campo complementa e valida todo o trabalho de definição do processo nos três desafios contemplados no projeto SOS VITIS, e permite à PORVID desde já ter acesso à informação necessária para a sua missão.
+
+<figure markdown>
+  ![Novo campo do formulário VITIS](../img/campoFormularioVITIS.jpg)
+  <figcaption>Novo campo do formulário VITIS, referente ao projeto SOS VITIS</figcaption>
+</figure>
+
+<figure markdown>
+  ![Diagrama BPMN Desafio 2 - Novo Processo](../diagramas/desafio2/export/desafio2-novo.png)
+  <figcaption>Diagrama BPMN Desafio 2 - Novo Processo</figcaption>
+</figure>
+
+<figure markdown>
+  ![Diagrama BPMN Desafio 2 - Novo Processo SI](../diagramas/desafio2/export/desafio2-novo-SI.png)
+  <figcaption>Diagrama BPMN Desafio 2 - Novo Processo Digitalizado</figcaption>
+</figure>
