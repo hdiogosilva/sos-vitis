@@ -111,5 +111,3 @@ Havendo várias formas de encarar este processo, o trabalho de esquematização 
   ![Processo de definição de requisitos](../diagramas/export/ImplementacaoSI.png){ width="500" }
   <figcaption>Processo de definição de requisitos</figcaption>
 </figure>
-
-### Design
