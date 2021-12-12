@@ -22,7 +22,7 @@ O processo é aqui representado em [notação BPMN](https://wikipedia.org/wiki/B
 
 ## Descrição
 
-1. As parcelas atualmente intervidas pela PORVID são coletadas por processos _manuais_ e _ad hoc_. Estas podem chegar por contactos com as DRAP, contactos diretos com viticultores ou por conhecimento dos elementos da PORVID. A atividade _"Coleção de informação de parcelas com potencial interesse"_ tenta agrupar esta coleção de meios não estruturados pelo que potenciais parcelas de interesse chegam à PORVID.
+1. As parcelas atualmente prospetadas pela PORVID são coletadas por processos _manuais_ e _ad hoc_. Estas podem chegar por contactos com as DRAP, contactos diretos com viticultores ou por conhecimento dos elementos da PORVID. A atividade _"Coleção de informação de parcelas com potencial interesse"_ tenta agrupar esta coleção de meios não estruturados pelo que potenciais parcelas de interesse chegam à PORVID.
     1. Uma vez que independentemente da forma/formato pelo que conhecimento destas parcelas chega à PORVID o seu tratamente sofre pouco variabilidade, optou-se por não formalmente anotar estas possibilidades.
 2. Havendo este conhecimento destas parcelas, cabe aos vários elementos da PORVID avaliar que o seu interesse de prospeção.
     1. A especificação deste processo encorre no âmbito do [Desafio 2](../Desafio 2/descricao/). Descrição do [processo atual aqui](../Desafio 2/processo-atual/).

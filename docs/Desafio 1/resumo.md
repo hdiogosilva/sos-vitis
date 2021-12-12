@@ -16,7 +16,7 @@ title: Resumo
 
 ## Solução
 
-A PORVID desempenha em Portugal um papél fundamental na conservação da variabilidade das castas. Também denominadas como “vinhas velhas”, estas plantas encerram preciosas amostras da diversidade genética das castas antigas de Portugal e são um importante recurso para a resiliência e capacidade de adaptação a alterações ambientais, como as alterações climáticas.  
+A PORVID desempenha em Portugal um papél fundamental na conservação da variabilidade das castas da videira. Nas "vinhas velhas" encontramos videiras que encerram preciosas amostras da diversidade genética das castas antigas de Portugal e são um importante recurso para a resiliência e capacidade de adaptação a alterações ambientais, como as alterações climáticas.  
 Para aumentar a abrangência e eficácia das suas atividades, ao mesmo tempo que garantindo que os viticultores possam continuar a renovar as suas vinhas, por exemplo através do VITIS, sem receio de que seja perdido o património ancestral nelas encerrado, a PORVID tem em vista alavancar informação já existente e dispersa por outras organizações para alimentar as suas atividades.
 
 Adotando um modelo de trabalho colaborativo e de co-criação com todos os stakeholders, um processo de trabalho que define atividades e responsabilidades de todas as instituições foi desenvolvido. Partindo dos processos atuais este novo modelo foi desenhado com flexibilidade em mente, para servir como guia para possibilitar uma simples e profícua a passagem da informação entre instituições.
