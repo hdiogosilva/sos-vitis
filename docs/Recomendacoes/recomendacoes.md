@@ -107,5 +107,9 @@ Where parcela.geocodigo BETWEEN 182374296923 and 182374296921;
 A definição de requisitos é fundamental para o desenho e implementação de sistemas que se adaptam ao seu meio e que são capazes de suportar a criação de valor.  
 Havendo várias formas de encarar este processo, o trabalho de esquematização de processos e atividades iniciado pelo projeto SOS Vitis serve como um importante ponto de partida. O levantamento de necessidades de informação, funcionalidades e até um certa descrição de requisitos funcionais e não funcionais foi aqui iniciado e deve ser tomado em conta.
 
-### Design
+<figure markdown>
+  ![Processo de definição de requisitos](../diagramas/export/ImplementacaoSI.png){ width="500" }
+  <figcaption>Processo de definição de requisitos</figcaption>
+</figure>
 
+### Design
