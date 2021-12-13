@@ -33,7 +33,7 @@ Um processo de digitalização eficaz dos diferentes processos da PORVID assenta
 1. Pessoas,
 2. Informação,
 3. Requisitos, e
-4. Design.
+4. Implementação.
 
 ### Pessoas
 
@@ -106,6 +106,17 @@ Where parcela.geocodigo BETWEEN 182374296923 and 182374296921;
 
 A definição de requisitos é fundamental para o desenho e implementação de sistemas que se adaptam ao seu meio e que são capazes de suportar a criação de valor.  
 Havendo várias formas de encarar este processo, o trabalho de esquematização de processos e atividades iniciado pelo projeto SOS Vitis serve como um importante ponto de partida. O levantamento de necessidades de informação, funcionalidades e até um certa descrição de requisitos funcionais e não funcionais foi aqui iniciado e deve ser tomado em conta.
+
+## Implementação
+
+Tendo por base todos este pontos um processo simples para a implementação destes sistemas foi desenvolvido. Este passa por:
+
++ uma definição clara da **visão e missão** destes SI capaz de guiar todo o desenvolvimento;
++ uma análise dos **processos de negócio** impactados por estes sistemas e como estes devem ser adaptados. Neste ponto o projeto SOS Vitis adianta muito deste trabalho para o processo de negócio principal e para vários sub-processos;
++ o desenho e definição de uma arquitetura de informação exaustiva e sustentável.
++ a definição de um **infraestrutura** técnica capaz de suportar todos os requisitos funcionais e não funcionais definidos;
++ a consideração do processo de **transição e migração** para utilização destes sistemas. A forma como utilizadores são introduzidos à utilização de SI dita muitas vezes a sua capacidade de criar valor ao longo do tempo, logo este deve ser um fator a ter em consideração desde logo;
++ a **implementação** dos sistemas de forma sustentável e escalável vertical e horizontalmente.
 
 <figure markdown>
   ![Processo de definição de requisitos](../diagramas/export/ImplementacaoSI.png){ width="500" }
